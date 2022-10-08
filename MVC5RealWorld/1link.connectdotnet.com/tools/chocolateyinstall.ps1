@@ -1,0 +1,1 @@
+﻿Get-ChocolateyUnzip -FileFullPath "C:\Program Files (x86)\Jenkins\workspace\demomvc\MVC5RealWorldv1.1.0.zip" -Destination "C:\inetpub\wwwroot\MVC5RealWorld"

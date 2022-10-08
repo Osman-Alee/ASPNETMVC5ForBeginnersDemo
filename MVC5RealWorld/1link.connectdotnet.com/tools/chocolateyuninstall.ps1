@@ -1,0 +1,1 @@
+﻿Uninstall-ChocolateyZipPackage 'MVC5RealWorld' 'MVC5RealWorldv1.1.0'
